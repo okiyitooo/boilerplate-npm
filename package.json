@@ -1,6 +1,6 @@
 {
-	"author": "Kanaetochi Okiyi",
 	"name": "fcc-learn-npm-package-json",
+	"author": "Kanaetochi Okiyi",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
